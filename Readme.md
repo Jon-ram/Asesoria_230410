@@ -18,7 +18,7 @@ en esta seccion se encontraran los fundamentos teoricos del proyecto .
 |----------|-------|---|-------------|
 | Josue Martinez Otero|[@Josue-Martinez-Otero](https://github.com/Josue-Martinez-Otero)|Lider FrontEnt|✅Revisado y Aprovado
 | Jonathan Baldemar Ramires Reyes |[@Jon-ram](https://github.com/Jon-ram)| Lider DE Documentacion|❌No a Revisado
-| Brisa Nallely Garcia Gregorio|[@hrisgregorio](https://github.com/hrisgregorio)|Lider Backend|😓No a Revisado
+| Brisa Nallely Garcia Gregorio|[@brisgregorio](https://github.com/brisgregorio)|Lider Backend|😓No a Revisado
 
 
 
